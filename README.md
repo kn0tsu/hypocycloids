@@ -6,6 +6,6 @@
 2. Clone this repo
 3. **Run**
     ```sh
-    manim -pql hypocycloids/main.py NestedHypocycloids
+    manim -pql hypocycloids/nested.py NestedHypocycloids
     ```
 
